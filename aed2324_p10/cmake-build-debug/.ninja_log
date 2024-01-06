@@ -1,0 +1,21 @@
+# ninja log v5
+506	657	1702648759094401180	aed2324_p10	eece71356bf0a97a
+3	632	1702647471345988141	CMakeFiles/aed2324_p10.dir/Tests/funWithBFS.cpp.o	12871c051dbe2798
+7537	7558	1702589409548262592	lib/libgtest.a	6a3c0737cbe34811
+1	1011	1702589402997174932	CMakeFiles/aed2324_p10.dir/main.cpp.o	39b5705f0ed4eed3
+2	1925	1702647472629015296	CMakeFiles/aed2324_p10.dir/Tests/tests.cpp.o	58c0749f5e2498c5
+2	505	1702648758937400138	CMakeFiles/aed2324_p10.dir/Tests/funWithDFS.cpp.o	5d395a7ed36d6563
+3	1024	1702589403011175119	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	3663d7916b76ad4c
+2	7537	1702589409513262124	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	f69158dc2d9f2139
+3	511	1702647471226985622	CMakeFiles/aed2324_p10.dir/Tests/Person.cpp.o	fa1cde888ac1d9c4
+7559	7567	1702589409560262753	lib/libgtest_main.a	2271495da73e48bd
+3	547	1704538258975483913	CMakeFiles/aed2324_p10.dir/Tests/Person.cpp.o	e973aec5bf3250b
+2	594	1704538259019484426	CMakeFiles/aed2324_p10.dir/Tests/funWithDFS.cpp.o	60f0cec6bb6dd50f
+2	706	1704538259131485732	CMakeFiles/aed2324_p10.dir/Tests/funWithBFS.cpp.o	f277a8fca45a0366
+3	907	1704538259337488134	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	ba3f1f0ceb3afc21
+2	1058	1704538259486489871	CMakeFiles/aed2324_p10.dir/main.cpp.o	d41c933fbabe037b
+2	1894	1704538260310499480	CMakeFiles/aed2324_p10.dir/Tests/tests.cpp.o	b91e3ec7aa5e9ebd
+3	7591	1704538266011565956	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	8de8bca115114142
+7591	7632	1704538266062566551	lib/libgtest.a	6a3c0737cbe34811
+7632	7658	1704538266090566878	lib/libgtest_main.a	2271495da73e48bd
+7658	7772	1704538266203568195	aed2324_p10	eece71356bf0a97a

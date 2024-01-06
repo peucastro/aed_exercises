@@ -1,0 +1,17 @@
+# ninja log v5
+7586	7615	1702290718645295115	lib/libgtest.a	6a3c0737cbe34811
+1	1843	1702640797400207815	CMakeFiles/aed2324_p12.dir/Tests/tests.cpp.o	6e9e585b4589c5cf
+2	909	1702290711932159393	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	fcf47a6bb969b4fa
+0	1002	1702290712027161314	CMakeFiles/aed2324_p12.dir/main.cpp.o	d718240da6c50d42
+1	7585	1702290718603294266	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	1309fbc7adcf3600
+7615	7623	1702290718656295338	lib/libgtest_main.a	2271495da73e48bd
+625	749	1702738301337018602	aed2324_p12	a330beb62891e400
+2	625	1702738301207016807	CMakeFiles/aed2324_p12.dir/Tests/funWithGraphs.cpp.o	3c2b47175369ff2b
+2	729	1704538292279872252	CMakeFiles/aed2324_p12.dir/Tests/funWithGraphs.cpp.o	21a96e7a742e6c8f
+3	765	1704538292324872777	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	bd99940c23eb3785
+2	851	1704538292408873756	CMakeFiles/aed2324_p12.dir/main.cpp.o	2b102ee3c17dd9fe
+2	1872	1704538293417885522	CMakeFiles/aed2324_p12.dir/Tests/tests.cpp.o	c77756efc083b27d
+2	7254	1704538298804948337	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	71c355e4d96de79e
+7255	7298	1704538298856948943	lib/libgtest.a	6a3c0737cbe34811
+7298	7326	1704538298887949305	lib/libgtest_main.a	2271495da73e48bd
+7326	7443	1704538299003950657	aed2324_p12	a330beb62891e400
